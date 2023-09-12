@@ -116,7 +116,7 @@ body{
 				width: 50px;
 				position: absolute;
 				top: 13em;
-				left: 51em;
+				left: 45em;
 				animation: bounce2 2s ease infinite;
 				opacity: 0;
 }
